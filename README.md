@@ -47,6 +47,12 @@ https://www.instagram.com/p/CUi4xFRld4D/
 It is loud. But cool
 
 
+To install it grab the .bin file and flash your Versio module with Ewout Decraene the one that ends .bin and then flash your Versio module with
+https://electro-smith.github.io/Programmer/
+
+
+
+
 ![](https://github.com/onoma2/TapeoVersio/blob/main/gen-tapeo.png)
 
 
